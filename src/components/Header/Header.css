@@ -1,0 +1,15 @@
+/* Header */
+.app-header {
+  background-color: #034EA2;
+  color: white;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.app-header h1 {
+  font-size: 1rem;
+  font-weight: 600;
+  padding-left: 20px;
+}
+

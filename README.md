@@ -1,5 +1,5 @@
 # How to run the code
- cd tasks
+ cd todo-app
  npm install
  npm run dev
 

@@ -1,4 +1,4 @@
-import SearchIcon from "./searchIcon";
+import SearchIcon from "./SearchIcon";
 
 export { 
     SearchIcon
